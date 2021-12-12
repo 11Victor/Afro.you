@@ -1,0 +1,43 @@
+.menu-cor{
+    background: #59A0B2;
+    font-weight: 400;
+}
+
+ .pb-10{
+    margin-bottom: 10pt;
+} 
+
+.fa-search{
+    font-size: 15pt;
+}
+
+
+.fa-search:hover{
+    color: #F5BA14;
+}
+
+.fonte-cor{
+    font-size: 12pt;
+    color:#7CCEBA;
+}
+
+.item-form{
+    margin-left: 10px;
+}
+
+.item-form a:hover{
+    color: #F5BA14;
+} 
+
+.logo{
+    height: 45px;
+    padding-right: 50px;
+} 
+
+.padUsuario{
+    padding-right: 90px;
+}
+
+.corpreto{
+    color: black;
+}

@@ -1,0 +1,19 @@
+.imgcarrossel{
+    height: 90vh;
+    width: 210vh;
+
+}
+
+
+
+@media (max-width : 768px) {
+    .fundolista {
+    
+        margin-top: 15px;
+    }
+
+    .imgcarrossel{
+        height: 40vh;
+        width: 110vh;
+    }
+}
